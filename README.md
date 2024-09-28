@@ -35,7 +35,7 @@ Start the server:
 
 Once the server is running, navigate to `http://localhost:3000` to view the self-driving car simulation.
 
-## Contributing
+## Contribution
 Feel free to submit issues or pull requests if you find any bugs or have suggestions for new features.
 
 ## License
